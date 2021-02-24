@@ -4,6 +4,11 @@ public class GetThisToWork
     {
         System.out.println("Should be first java on git");
         System.out.println("It Finaly worked");
-        // This is Master
+<<<<<<< HEAD
+        /
+        
+=======
+        //This is master
+>>>>>>> 6cb413a6d7256d275acb77b6065c479b89200df6
     }
 }
